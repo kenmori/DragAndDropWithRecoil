@@ -1,2 +1,0 @@
-# DragAndDropWithRecoil
-Created with CodeSandbox
